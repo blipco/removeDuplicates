@@ -1,0 +1,11 @@
+{
+  "name": "intuit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "removeDuplicate.js",
+  "scripts": {
+    "start": "node removeDuplicate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
